@@ -1,0 +1,6 @@
+symbol : 1000BONKUSDTM
+symbol : DOGSUSDTM
+symbol : FLOKIUSDTM
+symbol : DOGEUSDTM
+symbol : PEPEUSDTM
+symbol : SHIBUSDTM
